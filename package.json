@@ -1,6 +1,6 @@
 {
   "name": "express-handlebars-extend",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extend and Block helpers for express-handlebars",
   "main": "index.js",
   "scripts": {
