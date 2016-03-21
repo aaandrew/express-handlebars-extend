@@ -1,0 +1,23 @@
+{
+  "name": "express-handlebars-extend",
+  "version": "1.0.0",
+  "description": "Extend and Block helpers for express-handlebars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aaandrew/express-handlebars-extend.git"
+  },
+  "author": "Andrew Du",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaandrew/express-handlebars-extend/issues"
+  },
+  "homepage": "https://github.com/aaandrew/express-handlebars-extend",
+  "dependencies": {
+    "express-handlebars": "^3.0.0",
+    "object-assign": "^4.0.1"
+  }
+}
